@@ -1,1 +1,0 @@
-Menambahkan readme.txt
